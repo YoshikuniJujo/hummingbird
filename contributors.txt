@@ -1,3 +1,3 @@
+(文字コード順: runhaskell tools/sort.hs contributors.txt)
 重城良国
 野島亮
-(この上に名前を追加してください)
